@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<destinations>
+  <destination>
+    <name>Paris</name>
+    <country>France</country>
+    <description>The City f Light</description>
+  </destination>
+  <destination>
+    <name></name>
+    <country>12</country>
+    <description>The Eternal City</description>
+  </destination>
+  <destination>
+    <name>New York</name>
+    <country>USA</country>
+    <description>The City That Never Sleeps</description>
+  </destination>
+</destinations>
